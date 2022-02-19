@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13380" started-at="2022-02-19T21:45:38 IST" finished-at="2022-02-19T21:45:51 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13380" started-at="2022-02-19T21:45:38 IST" finished-at="2022-02-19T21:45:51 IST">
+      <class name="TestingProj.SecondTest">
+        <test-method status="PASS" signature="SecondBad()[pri:0, instance:TestingProj.SecondTest@49835d]" name="SecondBad" duration-ms="2301" started-at="2022-02-19T21:45:49 IST" finished-at="2022-02-19T21:45:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondBad -->
+        <test-method status="PASS" signature="SecondGood()[pri:0, instance:TestingProj.SecondTest@49835d]" name="SecondGood" duration-ms="2" started-at="2022-02-19T21:45:51 IST" finished-at="2022-02-19T21:45:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondGood -->
+      </class> <!-- TestingProj.SecondTest -->
+      <class name="TestingProj.FirstTest">
+        <test-method status="PASS" signature="FirstBad()[pri:0, instance:TestingProj.FirstTest@853265]" name="FirstBad" duration-ms="2" started-at="2022-02-19T21:45:51 IST" finished-at="2022-02-19T21:45:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstBad -->
+        <test-method status="PASS" signature="FirstGood()[pri:0, instance:TestingProj.FirstTest@853265]" name="FirstGood" duration-ms="11" started-at="2022-02-19T21:45:51 IST" finished-at="2022-02-19T21:45:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstGood -->
+      </class> <!-- TestingProj.FirstTest -->
+      <class name="TestingProj.ThirdTest">
+        <test-method status="PASS" signature="ThirdBad()[pri:0, instance:TestingProj.ThirdTest@1205a84]" name="ThirdBad" duration-ms="4" started-at="2022-02-19T21:45:51 IST" finished-at="2022-02-19T21:45:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThirdBad -->
+        <test-method status="PASS" signature="ThirdGood()[pri:0, instance:TestingProj.ThirdTest@1205a84]" name="ThirdGood" duration-ms="1" started-at="2022-02-19T21:45:51 IST" finished-at="2022-02-19T21:45:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThirdGood -->
+      </class> <!-- TestingProj.ThirdTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

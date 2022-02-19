@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="344" started-at="2021-12-02T21:27:19 IST" finished-at="2021-12-02T21:27:19 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="344" started-at="2021-12-02T21:27:19 IST" finished-at="2021-12-02T21:27:19 IST">
+      <class name="TestingProj.FirstTest">
+        <test-method status="PASS" signature="FirstBad()[pri:0, instance:TestingProj.FirstTest@8806ef]" name="FirstBad" duration-ms="25" started-at="2021-12-02T21:27:19 IST" finished-at="2021-12-02T21:27:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstBad -->
+        <test-method status="PASS" signature="FirstGood()[pri:0, instance:TestingProj.FirstTest@8806ef]" name="FirstGood" duration-ms="3" started-at="2021-12-02T21:27:19 IST" finished-at="2021-12-02T21:27:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstGood -->
+      </class> <!-- TestingProj.FirstTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
