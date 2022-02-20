@@ -2,40 +2,40 @@
 <testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="13380" started-at="2022-02-19T21:45:38 IST" finished-at="2022-02-19T21:45:51 IST">
+  <suite name="Command line suite" duration-ms="247" started-at="2022-02-20T16:53:05 IST" finished-at="2022-02-20T16:53:05 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="13380" started-at="2022-02-19T21:45:38 IST" finished-at="2022-02-19T21:45:51 IST">
+    <test name="Command line test" duration-ms="247" started-at="2022-02-20T16:53:05 IST" finished-at="2022-02-20T16:53:05 IST">
       <class name="TestingProj.SecondTest">
-        <test-method status="PASS" signature="SecondBad()[pri:0, instance:TestingProj.SecondTest@49835d]" name="SecondBad" duration-ms="2301" started-at="2022-02-19T21:45:49 IST" finished-at="2022-02-19T21:45:51 IST">
+        <test-method status="PASS" signature="SecondBad()[pri:0, instance:TestingProj.SecondTest@10366b4]" name="SecondBad" duration-ms="0" started-at="2022-02-20T16:53:05 IST" finished-at="2022-02-20T16:53:05 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SecondBad -->
-        <test-method status="PASS" signature="SecondGood()[pri:0, instance:TestingProj.SecondTest@49835d]" name="SecondGood" duration-ms="2" started-at="2022-02-19T21:45:51 IST" finished-at="2022-02-19T21:45:51 IST">
+        <test-method status="PASS" signature="SecondGood()[pri:0, instance:TestingProj.SecondTest@10366b4]" name="SecondGood" duration-ms="1" started-at="2022-02-20T16:53:05 IST" finished-at="2022-02-20T16:53:05 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SecondGood -->
       </class> <!-- TestingProj.SecondTest -->
       <class name="TestingProj.FirstTest">
-        <test-method status="PASS" signature="FirstBad()[pri:0, instance:TestingProj.FirstTest@853265]" name="FirstBad" duration-ms="2" started-at="2022-02-19T21:45:51 IST" finished-at="2022-02-19T21:45:51 IST">
+        <test-method status="PASS" signature="FirstBad()[pri:0, instance:TestingProj.FirstTest@15eadca]" name="FirstBad" duration-ms="22" started-at="2022-02-20T16:53:05 IST" finished-at="2022-02-20T16:53:05 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FirstBad -->
-        <test-method status="PASS" signature="FirstGood()[pri:0, instance:TestingProj.FirstTest@853265]" name="FirstGood" duration-ms="11" started-at="2022-02-19T21:45:51 IST" finished-at="2022-02-19T21:45:51 IST">
+        <test-method status="PASS" signature="FirstGood()[pri:0, instance:TestingProj.FirstTest@15eadca]" name="FirstGood" duration-ms="1" started-at="2022-02-20T16:53:05 IST" finished-at="2022-02-20T16:53:05 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FirstGood -->
       </class> <!-- TestingProj.FirstTest -->
       <class name="TestingProj.ThirdTest">
-        <test-method status="PASS" signature="ThirdBad()[pri:0, instance:TestingProj.ThirdTest@1205a84]" name="ThirdBad" duration-ms="4" started-at="2022-02-19T21:45:51 IST" finished-at="2022-02-19T21:45:51 IST">
+        <test-method status="PASS" signature="ThirdBad()[pri:0, instance:TestingProj.ThirdTest@ec5a4a]" name="ThirdBad" duration-ms="1" started-at="2022-02-20T16:53:05 IST" finished-at="2022-02-20T16:53:05 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ThirdBad -->
-        <test-method status="PASS" signature="ThirdGood()[pri:0, instance:TestingProj.ThirdTest@1205a84]" name="ThirdGood" duration-ms="1" started-at="2022-02-19T21:45:51 IST" finished-at="2022-02-19T21:45:51 IST">
+        <test-method status="PASS" signature="ThirdGood()[pri:0, instance:TestingProj.ThirdTest@ec5a4a]" name="ThirdGood" duration-ms="0" started-at="2022-02-20T16:53:05 IST" finished-at="2022-02-20T16:53:05 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ThirdGood -->
       </class> <!-- TestingProj.ThirdTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
 </testng-results>
